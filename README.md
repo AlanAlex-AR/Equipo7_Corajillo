@@ -1,4 +1,4 @@
-# Pokemon
+# Equipo7_Corajillo
 Tarea_Equipo_7
 
 Alan Alexander Arredondo Rodriguez A01638768@tec.mx
